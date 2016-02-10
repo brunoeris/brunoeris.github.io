@@ -1,0 +1,32 @@
+.photo-me {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.hello {
+  font-size: 45px;
+}
+
+.about-me {
+  font-size: 22px;
+  color: #3d3d3d;
+}
+
+.js-ruby {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons li a{
+  margin-right: 5px;
+  color: red;
+}
