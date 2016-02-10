@@ -1,3 +1,9 @@
+.red-line {
+  background-color: #FF2A2A;
+  width: 100%;
+  height: 5px;
+}
+
 .photo-me {
   max-width: 250px;
   max-height: 250px;
@@ -28,5 +34,5 @@ ul.share-buttons li{
 
 ul.share-buttons li a{
   margin-right: 5px;
-  color: red;
+  color: #FF2A2A;
 }
