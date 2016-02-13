@@ -1,3 +1,3 @@
 # brunoeris.github.io
 
-## about me ; )
+about me ; )
