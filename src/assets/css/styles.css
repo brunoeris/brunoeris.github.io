@@ -5,8 +5,8 @@
 }
 
 .photo-me {
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 300px;
+  max-height: 300px;
 }
 
 .hello {
@@ -18,7 +18,7 @@
 }
 
 .im b {
- color: #d12200; 
+ color: #d12200;
 }
 
 .about-me {
@@ -27,7 +27,7 @@
 }
 
 .email-contact {
-  font-size: 20px;
+  font-size: 16px;
   color: #d12200;
 }
 
