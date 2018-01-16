@@ -1,5 +1,5 @@
 .line-header {
-  background-color: #d12200;
+  background-color: #f3bb03;
   width: 100%;
   height: 15px;
 }
@@ -18,7 +18,7 @@
 }
 
 .im b {
- color: #d12200;
+ color: #f3bb03;
 }
 
 .about-me {
@@ -28,7 +28,7 @@
 
 .email-contact {
   font-size: 16px;
-  color: #d12200;
+  color: #f3bb03;
 }
 
 ul.share-buttons{
@@ -42,5 +42,5 @@ ul.share-buttons li{
 
 ul.share-buttons li a{
   margin-right: 5px;
-  color: #d12200;
+  color: #f3bb03;
 }
